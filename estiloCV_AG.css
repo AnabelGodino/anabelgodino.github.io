@@ -1,0 +1,50 @@
+p{
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+
+#infopersonal {
+	background-color:#F96;
+	font-size:20px;
+	color:#000000;
+	padding: 20px;
+}
+
+#menu {
+	background-color:#000000;
+	font-size:20px;
+	color:#FFFFFF;
+	padding: 20px;
+}
+
+#experiencia {
+	font-size:20px;
+	background-color:#999;
+	padding: 20px;
+	}
+	
+#habilidades {
+	font-size:20px;
+	background-color: #696;
+	padding: 20px;
+	}
+	
+a {
+	color:#FFF;
+	}
+
+#footer {
+	background-color:#000;
+	color:#FFF;
+	padding: 20px;
+	}
+	
+h1 {
+	font-family: Phudu;
+	}
+
+#carta {
+	background-color:#999;
+	font-size:20px;
+	color:#000;
+	padding: 20px;
+}

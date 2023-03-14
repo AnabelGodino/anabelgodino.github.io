@@ -1,0 +1,5 @@
+// JavaScript Document
+document.getElementById("boton").onclick = function (){
+	console.log();
+	document.getElementById("info").innerHTML = "Al departamento  de RRHH. Me motiva especialmente trabajar en su empresa debido al prestigio y renombre que tiene en el sector, y estoy capacitado para cubrir el puesto que solicitan, ya que mi experiencia profesional de 5 años se centra en el desarrollo de innovadores programas de fidelización y captación de nuevos clientes. Soy Licenciado en Marketing y Comunicación por la Universidad de Navarra, poseo un buen nivel de inglés y he trabajado con diferentes tecnologías de investigación de mercados, tal como requiere la oferta. Me encantaría mantener una conversación con usted a su mejor conveniencia para ampliarle personalmente la información que le remito. Para ello podrá localizarme con facilidad en el número de teléfono o por correo electrónico. A la espera de sus noticias, le saluda atentamente"
+}
